@@ -1,8 +1,8 @@
-
-
-	   <favorite_film>sweet november</favorite_film>
-	   <favorite_series>game of thrones</favorite_series>
-	   <favorite_food>salad</favorite_food>
-	   <favorite_season_of_the_year>summer</favorite_season_of_the_year>
-	   <country>there are many of them</country>
-
+<?xml version="1.0" encoding="UTF-8"?>
+   <PREFERENCES>
+	  <favorite_film>sweet november</favorite_film>
+          <favorite_series>game of thrones</favorite_series>
+          <favorite_food>salad</favorite_food>
+          <favorite_season_of_the_year>summer</favorite_season_of_the_year>
+          <country>there are many of them</country>
+   </PREFERENCES>
