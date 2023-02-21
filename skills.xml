@@ -1,29 +1,12 @@
 
-<Базовая теория SDLC, STLC>
-<Что такое клиент-серверная архитектура>
-<HTTP Методы запросов на сервер>
-<Коды ответов HTTP сервера>
-<Структуры HTTP запросов и ответов>
-<JSON,XML. Их структура>
-<Тестирование API через Postman (JS,автотесты API)>>
-<Снятие чтение логов c внешнего сервера>
-<Снифинг http web трафика через Charles Fiddler>
-<Dev Tools веб-браузеров (Google Chrome, FireFox)>
-<VPN>
-<Мобильноe тестирование>
-<Особенность iOS, Android, гайдлайны>
-<Сборка iOS приложений на XCode>
-<Сборка Android приложений на Android Studio>
-<ADB>
-<Настройка прокси и vpn на iOS и Android>
-<Charles и Fiddler на iOS и Android>
-<Terminal Linux>
-<Основы bash скриптинг>
-<Доступ к удалённым серверам>
-<SQL>
-<Postgres>
-<Redis>
-<Jmeter>
-<Scrum>
-<Python>
+<?xml version="1.0" encoding="UTF-8"?>
+   <SKILLS>
+        <GitBash>Commands</GitBash>
+        <HTML>The Basic of HTML</HTML>
+        <JIRA>The structure of a bug report</JIRA>
+        <TestTrail>Test Cases</TestTrail>
+        <TestCase> Exact teps to reproduce</TestCase>
+        <Checklist>Steps to reproduce</Checklist>
+        <JavaScript>Hello,World!</JavaScript>
+   </SKILLS>
 
