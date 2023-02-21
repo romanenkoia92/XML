@@ -1,12 +1,18 @@
-
-<short_desc>
-      <report id="280464">
-      <update>
-      <when>12345144375</when>
-      <what>First build performance must be improved</what>
-      </update>
-      <update>
-      <when>12345222394</when>
-      <what>API tooling  performance must be improved</what>
-      <update>
-      </short_desc>
+<?xml version="1.0" encoding="UTF-8"?>
+   <bug_report>
+     <Summary>Status code 403 is displayed on all the site in the Console</Summary>
+     <Type>Bug</Type>
+     <Priority>Medium</Priority>
+     <Severity>Major</Severity>
+     <Enviroment>Win 11 Home, Chrome v108</Enviroment>
+       <Steps to reproduce>
+       <FirstStep>Navigate to capital.com</FirstStep>
+       <SecondStep>Click button [Burger menu]</SecondStep>
+       <ThirdStep>Click any Markets menu item [Forex / Indices / Cryptocurrencies / Commodities / Shares]</ThirdStep>
+       <FourthStep>Click button [Buy] / [Sell] in widget "Trading instrument" when the price is updating</FourthStep>
+       </Steps to reproduce>
+     <ExpectedResult>Sign Up form is opened / Login form is opened / The page of the corresponding trading instrument on the trading platform is opened / The page "We're excited to see you here!" (depends on role and device)</ExpectedResult>
+     <ActualResult>The page of the corresponding trading instrument is opened</ActualResult>
+     <Status>Open</Status>
+     <TypeofBug>Functional</TypeofBug>
+   </bug_report>
