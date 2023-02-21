@@ -1,7 +1,7 @@
-
-        <name>Ivanna</name>
+<INFO>
+	<name>Ivanna</name>
         <surename>Romanenko</surname>
-	<age>30</age>
-	<number_of_pets>3</number_of_pets>
-	<future_desired_salary>1000</future_desired_salary>
-
+        <age>30</age>
+        <number_of_pets>3</number_of_pets>
+        <future_desired_salary>1000</future_desired_salary>
+</INFO>
